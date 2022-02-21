@@ -115,7 +115,7 @@
 
   .app__navbar-smallscreen {
     display: flex;
-    color: white;
+    align-items: center;
   }
 }
 
